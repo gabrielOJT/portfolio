@@ -13,8 +13,6 @@ const ProjectCards: React.FC<ProjectCardProps> = ({
   videoUrl,
   url,
 }) => {
-  const [isHovered, setIsHovered] = React.useState(false);
-
   const goTo = () => {
     window.open(url, "_blank");
   };
@@ -22,8 +20,6 @@ const ProjectCards: React.FC<ProjectCardProps> = ({
   return (
     <div
       className="max-w-sm rounded overflow-hidden shadow-lg bg-white transition duration-300 transform hover:cursor-pointer hover:scale-105 hover:shadow-xl"
-      onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
       onClick={goTo}
     >
       {/* <img
