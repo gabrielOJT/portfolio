@@ -7,7 +7,7 @@ function About() {
       <div className="h-full flex flex-col md:flex-row items-center text-center justify-center pb-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="w-auto md:w-2/5">
           <img
-            src={"/public/programmer.gif"}
+            src={"/programmer.gif"}
             alt="Hero"
             className="w-auto float-left h-96 rounded"
           />
