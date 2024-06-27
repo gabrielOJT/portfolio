@@ -50,7 +50,7 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-bold mb-4">Follow Me</h3>
             <div className="flex space-x-6">
               <a
-                href="https://github.com/yourprofile"
+                href="https://github.com/gabrielOJT"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-white"
@@ -64,7 +64,7 @@ const Footer: React.FC = () => {
                 </svg>
               </a>
               <a
-                href="https://linkedin.com/in/yourprofile"
+                href="https://www.linkedin.com/in/gabriel-tutor-51580130a"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-white"
