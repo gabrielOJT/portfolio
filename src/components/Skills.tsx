@@ -66,6 +66,7 @@ function Skills() {
             <SkillSets text="SASS" icon={<IoLogoSass />} />
             <SkillSets text="JAVASCRIPT" icon={<IoLogoJavascript />} />
             <SkillSets text="REACT JS" icon={<IoLogoReact />} />
+            <SkillSets text="VUE JS" />
             <SkillSets text="REACT NATIVE" icon={<IoLogoReact />} />
             <SkillSets text="IONIC FRAMEWORK" icon={<IoLogoIonic />} />
             <SkillSets text="NPM" icon={<CgNpm />} />
