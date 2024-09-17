@@ -54,7 +54,7 @@ function HeroSection() {
                 <span>Hire me</span>
               </div>
             </a>
-            <a href="https://drive.google.com/file/d/1ZP7dAJwzyzfK4WvBGvK2E8g3VL7lzWoi/view?usp=sharing" target="_blank" className="border-2 border-orange-300 text-lg hover:scale-105 hover:bg-orange-500 hover:border-orange-500 text-white font-bold py-3 px-5 rounded mt-8 drop-shadow-lg shadow-black duration-75 ease-in-out">
+            <a href="https://drive.google.com/file/d/1kee7yZfb-kEjmxoDOvUdRvBRMjchQhbO/view?usp=sharing" target="_blank" className="border-2 border-orange-300 text-lg hover:scale-105 hover:bg-orange-500 hover:border-orange-500 text-white font-bold py-3 px-5 rounded mt-8 drop-shadow-lg shadow-black duration-75 ease-in-out">
               <div className="flex items-center gap-1">
                 <IoDownloadOutline />
                 <span>Resume</span>
